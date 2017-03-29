@@ -12,4 +12,7 @@ http://scipy.github.io/old-wiki/pages/NumPy_for_Matlab_Users
 http://people.idsia.ch/~juergen/nn2012traffic.pdf
 https://arxiv.org/pdf/1606.02228.pdf
 
+### Hobbyists
+http://selfracingcars.com/
+
 
