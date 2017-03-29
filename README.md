@@ -18,4 +18,8 @@ https://arxiv.org/pdf/1606.02228.pdf
 ### Hobbyists 
 http://selfracingcars.com/ 
 
+### Courses
+RNN : http://cs224d.stanford.edu/syllabus.html
+
+
 
