@@ -15,6 +15,8 @@ http://people.idsia.ch/~juergen/nn2012traffic.pdf
 
 https://arxiv.org/pdf/1606.02228.pdf 
  
+https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf
+
 ### Hobbyists 
 http://selfracingcars.com/ 
 
