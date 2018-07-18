@@ -21,8 +21,7 @@ https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf
 http://selfracingcars.com/ 
 
 ### Courses
-RNN : http://cs224d.stanford.edu/syllabus.html
-
+Recursive Neural Nets : http://cs224d.stanford.edu/syllabus.html
 
 ### Reinforcement Learning
 
@@ -30,4 +29,8 @@ Stanford Reinforcement learning: http://web.stanford.edu/class/cs234/index.html
 
 Berkeley Deep Reinforcement learning: http://rail.eecs.berkeley.edu/deeprlcourse-fa17/index.html
 
+Reinforcement Learning: An introduction By Richard Sutton 
+http://incompleteideas.net/book/bookdraft2018jan1.pdf
+
 https://github.com/dennybritz/reinforcement-learning
+
