@@ -20,8 +20,8 @@ https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf
 ### Hobbyists 
 http://selfracingcars.com/ 
 
-### Courses
-Recursive Neural Nets : http://cs224d.stanford.edu/syllabus.html
+### Natural Language Processing
+Stanford NLP using deep learning (RNN's) : http://cs224d.stanford.edu/syllabus.html
 
 ### Reinforcement Learning
 
