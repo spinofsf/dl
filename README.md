@@ -24,4 +24,11 @@ http://selfracingcars.com/
 RNN : http://cs224d.stanford.edu/syllabus.html
 
 
+### Reinforcement Learning
+https://github.com/dennybritz/reinforcement-learning
+
+Stanford Reinforcement learning : http://web.stanford.edu/class/cs234/index.html
+
+
+
 
