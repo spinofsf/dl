@@ -25,10 +25,9 @@ RNN : http://cs224d.stanford.edu/syllabus.html
 
 
 ### Reinforcement Learning
+
+Stanford Reinforcement learning: http://web.stanford.edu/class/cs234/index.html
+
+Berkeley Deep Reinforcement learning: http://rail.eecs.berkeley.edu/deeprlcourse-fa17/index.html
+
 https://github.com/dennybritz/reinforcement-learning
-
-Stanford Reinforcement learning : http://web.stanford.edu/class/cs234/index.html
-
-
-
-
