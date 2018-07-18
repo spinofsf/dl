@@ -21,7 +21,7 @@ https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf
 http://selfracingcars.com/ 
 
 ### Natural Language Processing
-Stanford NLP using deep learning (RNN's) : http://cs224d.stanford.edu/syllabus.html
+Stanford - Deep NN's for NLP: http://cs224d.stanford.edu/syllabus.html
 
 ### Reinforcement Learning
 
