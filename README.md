@@ -28,6 +28,7 @@ Stanford - Deep NN's for NLP: http://cs224d.stanford.edu/syllabus.html
 Stanford Reinforcement learning: http://web.stanford.edu/class/cs234/index.html
 
 Berkeley Deep Reinforcement learning: http://rail.eecs.berkeley.edu/deeprlcourse-fa17/index.html
+Lectures: https://www.youtube.com/playlist?list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX
 
 Reinforcement Learning: An introduction By Richard Sutton 
 http://incompleteideas.net/book/bookdraft2018jan1.pdf
