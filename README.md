@@ -37,3 +37,5 @@ https://github.com/dennybritz/reinforcement-learning
 
 Deep Q learning paper - [Human-level control through deep reinforcement learning - Nature Mnih et. all](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf)
 
+Deep RL paper - [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/pdf/1602.01783.pdf) 
+
