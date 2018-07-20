@@ -35,5 +35,5 @@ http://incompleteideas.net/book/bookdraft2018jan1.pdf
 
 https://github.com/dennybritz/reinforcement-learning
 
-[Human-level control through deep reinforcement learning - Nature Mnih et. all] (https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf)
+Deep Q learning paper - [Human-level control through deep reinforcement learning - Nature Mnih et. all](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf)
 
