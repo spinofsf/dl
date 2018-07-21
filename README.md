@@ -35,7 +35,15 @@ http://incompleteideas.net/book/bookdraft2018jan1.pdf
 
 https://github.com/dennybritz/reinforcement-learning
 
-Deep Q learning paper - [Human-level control through deep reinforcement learning - Nature Mnih et. all](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf)
+DQN - [Human-level control through deep reinforcement learning - Nature Mnih et. all](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf)
 
-Deep RL paper - [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/pdf/1602.01783.pdf) 
+DDQN - [Deep Reinforcement Learning with Double Q-learning](https://arxiv.org/pdf/1509.06461.pdf)
+
+A3C - [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/pdf/1602.01783.pdf)
+
+
+### GAN
+
+[NIPS 2016 Tutorial: Generative Adversarial Networks Ian Good Fellow](https://arxiv.org/pdf/1701.00160v4.pdf)
+
 
