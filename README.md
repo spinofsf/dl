@@ -25,6 +25,8 @@ Stanford - Deep NN's for NLP: http://cs224d.stanford.edu/syllabus.html
 
 ### Reinforcement Learning
 
+[DEEP REINFORCEMENT LEARNING: AN OVERVIEW June 2017](https://arxiv.org/pdf/1701.07274v5.pdf) Review of different techniques along with psuedo-code and github examples
+
 Stanford Reinforcement learning: http://web.stanford.edu/class/cs234/index.html
 
 Berkeley Deep Reinforcement learning: http://rail.eecs.berkeley.edu/deeprlcourse-fa17/index.html
