@@ -20,11 +20,13 @@ https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf
 ### Hobbyists 
 http://selfracingcars.com/ 
 
+### Image Processing & Computer Vision
+Stanford - CNN's for Visual Recognition course: http://cs231n.stanford.edu/
+
 ### Natural Language Processing
 Stanford - Deep NN's for NLP: http://cs224d.stanford.edu/syllabus.html
 
 ### Reinforcement Learning
-
 [Deep Reinforcement Learning : An Overview June 2017](https://arxiv.org/pdf/1701.07274v5.pdf)   
 Review of different deep RL techniques along with psuedo-code/github examples/courses
 
@@ -42,9 +44,7 @@ DDQN paper - [Deep Reinforcement Learning with Double Q-learning](https://arxiv.
 
 A3C paper - [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/pdf/1602.01783.pdf)
 
-
 ### GAN
-
 [NIPS 2016 Tutorial: Generative Adversarial Networks Ian Good Fellow](https://arxiv.org/pdf/1701.00160v4.pdf)
 
 
