@@ -20,10 +20,10 @@ https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf
 ### Hobbyists 
 http://selfracingcars.com/ 
 
-### Image Processing & Computer Vision
+### Image Processing & Computer Vision - Conv Nets
 Stanford - CNN's for Visual Recognition course: http://cs231n.stanford.edu/
 
-### Natural Language Processing
+### Natural Language Processing - RNN's
 Stanford - Deep NN's for NLP: http://cs224d.stanford.edu/syllabus.html
 
 [Visualizing and Understanding Recurrent Networks - Karpathy Conference paper 2016](https://arxiv.org/pdf/1506.02078.pdf)
