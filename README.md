@@ -53,3 +53,5 @@ A3C paper - [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv
 ### Quantum Computing
 
 [Quantum Algorithm Implementations for Beginners](https://arxiv.org/pdf/1804.03719.pdf)
+
+Quantum Algorithms - EECS Berkeley http://www-inst.eecs.berkeley.edu/~cs191/sp12/notes/chap10.pdf
