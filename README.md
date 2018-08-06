@@ -50,4 +50,6 @@ A3C paper - [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv
 ### GAN
 [NIPS 2016 Tutorial: Generative Adversarial Networks Ian Good Fellow](https://arxiv.org/pdf/1701.00160v4.pdf)
 
+### Quantum Computing
 
+[Quantum Algorithm Implementations for Beginners](https://arxiv.org/pdf/1804.03719.pdf)
