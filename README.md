@@ -61,3 +61,5 @@ Quantum Computing - Overview 2010 https://arxiv.org/pdf/1009.2267.pdf
 Semi Charge qubits - [Charge-qubit operation of an isolated double quantum dot J. Gorman et all 2005](https://arxiv.org/pdf/cond-mat/0504451.pdf)
 
 Semi Charge qubits - [A gate-defined silicon quantum dot molecule Hongwu Liu 2008](https://arxiv.org/pdf/0806.0422.pdf)
+
+Semi Charge quibits - [Microwave-driven coherent operation of a semiconductor quantum dot charge qubit - 2014 D Kim](https://arxiv.org/pdf/1407.7607.pdf)
