@@ -63,3 +63,12 @@ Semi Charge qubits - [Charge-qubit operation of an isolated double quantum dot J
 Semi Charge qubits - [A gate-defined silicon quantum dot molecule Hongwu Liu 2008](https://arxiv.org/pdf/0806.0422.pdf)
 
 Semi Charge quibits - [Microwave-driven coherent operation of a semiconductor quantum dot charge qubit - 2014 D Kim](https://arxiv.org/pdf/1407.7607.pdf)
+
+Quantum Kitchen Sinks - [An algorithm for machine learning on near-term quantum computers C. M. Wilson 2018](https://arxiv.org/pdf/1806.08321.pdf)
+
+ISA - [A Practical Quantum Instruction Set Architecture Robert S. Smith 2017](https://arxiv.org/pdf/1608.03355.pdf)
+
+Rigetti 9 Qubits - [Demonstration of Universal Parametric Entangling Gates on a Multi-Qubit Lattice 2018](https://arxiv.org/pdf/1706.06570.pdf)
+
+Rigetti 19 Qubits - [Unsupervised Machine Learning on a Hybrid Quantum Computer J. S. Otterbach 2017](https://arxiv.org/pdf/1712.05771.pdf)
+
