@@ -74,3 +74,4 @@ Rigetti 19 Qubits - [Unsupervised Machine Learning on a Hybrid Quantum Computer 
 
 Bloch sphere - [Intro](http://www.physics.umd.edu/courses/Phys402/AnlageFall16/Bloch%20Sphere%20Notes%20by%20Fred%20Wellstood.pdf)
 
+Comparison of IBM 5 qubit & Ion trapped QC - [Experimental Comparison of Two Quantum Computing Architectures - N. M. Linke 2017](https://arxiv.org/pdf/1702.01852v1.pdf)
