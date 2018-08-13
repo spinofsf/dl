@@ -72,5 +72,5 @@ Rigetti 9 Qubits - [Demonstration of Universal Parametric Entangling Gates on a 
 
 Rigetti 19 Qubits - [Unsupervised Machine Learning on a Hybrid Quantum Computer J. S. Otterbach 2017](https://arxiv.org/pdf/1712.05771.pdf)
 
-Bloch sphere - \
-http://www.physics.umd.edu/courses/Phys402/AnlageFall16/Bloch%20Sphere%20Notes%20by%20Fred%20Wellstood.pdf
+Bloch sphere - [Intro](http://www.physics.umd.edu/courses/Phys402/AnlageFall16/Bloch%20Sphere%20Notes%20by%20Fred%20Wellstood.pdf)
+
