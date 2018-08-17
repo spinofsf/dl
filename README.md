@@ -77,3 +77,5 @@ Bloch sphere - [Intro](http://www.physics.umd.edu/courses/Phys402/AnlageFall16/B
 Comparison of IBM 5 qubit & Ion trapped QC - [Experimental Comparison of Two Quantum Computing Architectures - N. M. Linke 2017](https://arxiv.org/pdf/1702.01852v1.pdf)
 
 Hybrid QC + Classical approach - [A variational eigenvalue solver on a quantum processor - Alberto Peruzzo 2013](https://arxiv.org/pdf/1304.3061.pdf)
+
+Nearterm Quantum Applications - [Scalable Quantum Simulation of Molecular Energies - P.J.J. O’Malley 2017](https://arxiv.org/pdf/1512.06860.pdf)
