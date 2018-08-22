@@ -80,7 +80,7 @@ Hybrid QC + Classical approach - [A variational eigenvalue solver on a quantum p
 
 Nearterm Quantum Applications - [Scalable Quantum Simulation of Molecular Energies - P.J.J. O’Malley 2017](https://arxiv.org/pdf/1512.06860.pdf)
 
-Error Correction - [Logic gates at the surface code threshold: Superconducting qubits poised for fault-tolerant
+Quantum Error Correction Surface Codes - [Logic gates at the surface code threshold: Superconducting qubits poised for fault-tolerant
 quantum computing R. Barends, 2014](https://arxiv.org/pdf/1402.4848.pdf)
 
 Conference Q2B - [https://www.q2b.us/](https://www.q2b.us/)  \
