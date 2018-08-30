@@ -82,7 +82,7 @@ Quantum Chemistry Applications - [Scalable Quantum Simulation of Molecular Energ
 
 AI/ML Applications - [Classification with Quantum Neural Networks on Near Term Processors - Edward Farhi 2018](https://arxiv.org/pdf/1802.06002.pdf) \
 AI/ML Applications - [Quantum Circuit Learning K. Mitarai, 2018](https://arxiv.org/pdf/1803.00745.pdf) \
-AI/ML Applications - [Supervised learning with quantum enhanced feature spaces Vojtech Havlicek 2018]  \(https://arxiv.org/pdf/1804.11326.pdf)
+AI/ML Applications - [Supervised learning with quantum enhanced feature spaces Vojtech Havlicek 2018](https://arxiv.org/pdf/1804.11326.pdf)
 
 Quantum Error Correction Surface Codes - [Logic gates at the surface code threshold: Superconducting qubits poised for fault-tolerant
 quantum computing R. Barends, 2014](https://arxiv.org/pdf/1402.4848.pdf)
