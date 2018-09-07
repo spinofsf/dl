@@ -89,6 +89,9 @@ AI/ML Applications - [Supervised learning with quantum enhanced feature spaces V
 Quantum Error Correction Surface Codes - [Logic gates at the surface code threshold: Superconducting qubits poised for fault-tolerant
 quantum computing R. Barends, 2014](https://arxiv.org/pdf/1402.4848.pdf)
 
+Quantum Open source software - [ProjectQ: An Open Source Software Framework for Quantum Computing Damian S. Steiger ETH Zurich Jan 2018] (https://arxiv.org/pdf/1612.08091.pdf)
+
+
 Conference Q2B - [https://www.q2b.us/](https://www.q2b.us/)  \
 Conference HPC User forum - [https://www.hpcuserforum.com](https://www.hpcuserforum.com/presentations.html) \
 Conference Quantum Error Correction -  [4th International Conference on Quantum Error Correction](https://qec2017.gatech.edu/)
