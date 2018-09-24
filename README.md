@@ -93,7 +93,7 @@ quantum computing R. Barends, 2014](https://arxiv.org/pdf/1402.4848.pdf)
 
 Opensource Quantum software - [ProjectQ: An Open Source Software Framework for Quantum Computing Damian S. Steiger ETH Zurich Jan 2018](https://arxiv.org/pdf/1612.08091.pdf)
 
-
+### Quantum Computing Conferences
 Conference Q2B - [https://www.q2b.us/](https://www.q2b.us/)  \
 Conference HPC User forum - [https://www.hpcuserforum.com](https://www.hpcuserforum.com/presentations.html) \
 Conference Quantum Error Correction -  [4th International Conference on Quantum Error Correction](https://qec2017.gatech.edu/)
