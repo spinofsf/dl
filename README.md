@@ -58,9 +58,9 @@ A3C paper - [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv
 
 [Quantum Algorithm Implementations for Beginners](https://arxiv.org/pdf/1804.03719.pdf)
 
-Quantum Algorithms - EECS Berkeley http://www-inst.eecs.berkeley.edu/~cs191/sp12/notes/chap10.pdf
+[Quantum Computing - Overview of Physical Realizations 2010](https://arxiv.org/pdf/1009.2267.pdf)
 
-Quantum Computing - Overview 2010 https://arxiv.org/pdf/1009.2267.pdf
+Quantum Algorithms - EECS Berkeley http://www-inst.eecs.berkeley.edu/~cs191/sp12/notes/chap10.pdf
 
 Semi Charge qubits - [Charge-qubit operation of an isolated double quantum dot J. Gorman et all 2005](https://arxiv.org/pdf/cond-mat/0504451.pdf)
 
