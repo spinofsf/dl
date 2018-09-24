@@ -52,6 +52,8 @@ A3C paper - [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv
 
 ### Quantum Computing
 
+[Current state of QC - Quantum Computing in the NISQ era and beyond,John Preskill 2018](https://arxiv.org/pdf/1801.00862.pdf)
+
 [An Introduction to Quantum Computing, Without the Physics](https://arxiv.org/pdf/1708.03684.pdf)
 
 [Quantum Algorithm Implementations for Beginners](https://arxiv.org/pdf/1804.03719.pdf)
